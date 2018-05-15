@@ -1,0 +1,4 @@
+baseurl = "http://165.227.96.238/charlesfinney/quickstart/"
+languageCode = "en-us"
+title = "Charles Finney Course"
+theme = "hugo-theme-learn"
